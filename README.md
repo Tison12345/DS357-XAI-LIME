@@ -13,6 +13,8 @@
 | Conference | KDD 2016 (A* Conference) |
 | Authors | Marco Tulio Ribeiro, Sameer Singh, Carlos Guestrin |
 | Paper Link | https://arxiv.org/abs/1602.04938 |
+| Prem Sagar TK | 23bds065 |
+| Preetham P | 23bds046 |
 
 ---
 
@@ -241,9 +243,3 @@ below the 20% plagiarism threshold required by course policy.
 
 4. Molnar, C. (2022). Interpretable Machine Learning.
    https://christophm.github.io/interpretable-ml-book/lime.html
-
----
-
-## Contact
-For questions about this project contact:
-[Team member email] — [Institution]

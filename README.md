@@ -45,10 +45,7 @@ Stable-LIME improves LIME by:
 DS357-XAI-LIME/
 │
 ├── code/
-│   ├── phase2_replication.ipynb     ← Full Phase 2 Colab notebook
-│   ├── phase3_stable_lime.ipynb     ← Full Phase 3 Colab notebook
-│   ├── phase2_replication.py        ← Phase 2 as .py script
-│   └── phase3_stable_lime.py        ← Phase 3 as .py script
+│   ├── code
 │
 ├── phase2/
 │   ├── result1_confusion_matrix.png         ← Model evaluation

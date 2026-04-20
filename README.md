@@ -13,8 +13,6 @@
 | Conference | KDD 2016 (A* Conference) |
 | Authors | Marco Tulio Ribeiro, Sameer Singh, Carlos Guestrin |
 | Paper Link | https://arxiv.org/abs/1602.04938 |
-| Team Name | [Fill your team name] |
-| Members | [Member 1], [Member 2], [Member 3], [Member 4], [Member 5], [Member 6] |
 
 ---
 

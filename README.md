@@ -93,16 +93,12 @@ All experiments use `random_state=42` for full reproducibility.
 
 ### Run Phase 2 in Google Colab
 
-Go to https://colab.research.google.com
-Upload code/phase2_replication.ipynb
 Runtime → Run all
 Expected runtime: ~5 minutes
 
 
 ### Run Phase 3 in Google Colab
 
-Go to https://colab.research.google.com
-Upload code/phase3_stable_lime.ipynb
 Runtime → Run all
 Expected runtime: ~15 minutes
 (10 runs × 3 documents × 2 methods × num_samples=5000)

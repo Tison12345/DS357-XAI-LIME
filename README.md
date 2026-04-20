@@ -109,8 +109,7 @@ Expected runtime: ~15 minutes
 git clone https://github.com/[your-username]/DS357-XAI-LIME
 cd DS357-XAI-LIME
 pip install lime scikit-learn numpy pandas matplotlib
-python code/phase2_replication.py
-python code/phase3_stable_lime.py
+python code/code.py
 ```
 
 ---
